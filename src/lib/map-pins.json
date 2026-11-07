@@ -1,0 +1,193 @@
+{
+ "width": 176,
+ "height": 72,
+ "pins": [
+  {
+   "id": "riyadh",
+   "name": "Riyadh",
+   "country": "Saudi Arabia",
+   "code": "RUH",
+   "lat": 24.7136,
+   "lng": 46.6753,
+   "kind": "hub",
+   "x": 110.5,
+   "y": 27.71
+  },
+  {
+   "id": "dubai",
+   "name": "Dubai",
+   "country": "UAE",
+   "code": "DXB",
+   "lat": 25.2048,
+   "lng": 55.2708,
+   "kind": "hub",
+   "x": 114,
+   "y": 26.85
+  },
+  {
+   "id": "kochi",
+   "name": "Kerala",
+   "country": "India",
+   "code": "COK",
+   "lat": 9.9312,
+   "lng": 76.2673,
+   "kind": "hub",
+   "x": 125,
+   "y": 35.51
+  },
+  {
+   "id": "jeddah",
+   "name": "Jeddah",
+   "country": "Saudi Arabia",
+   "code": "JED",
+   "lat": 21.4858,
+   "lng": 39.1925,
+   "kind": "port",
+   "x": 106.5,
+   "y": 29.44
+  },
+  {
+   "id": "dammam",
+   "name": "Dammam",
+   "country": "Saudi Arabia",
+   "code": "DMM",
+   "lat": 26.4207,
+   "lng": 50.0888,
+   "kind": "port",
+   "x": 112,
+   "y": 26.85
+  },
+  {
+   "id": "shanghai",
+   "name": "Shanghai",
+   "country": "China",
+   "code": "SHA",
+   "lat": 31.2304,
+   "lng": 121.4737,
+   "kind": "source",
+   "x": 144.5,
+   "y": 24.25
+  },
+  {
+   "id": "guangzhou",
+   "name": "Guangzhou",
+   "country": "China",
+   "code": "CAN",
+   "lat": 23.1291,
+   "lng": 113.2644,
+   "kind": "source",
+   "x": 142,
+   "y": 28.58
+  },
+  {
+   "id": "seoul",
+   "name": "Busan",
+   "country": "South Korea",
+   "code": "PUS",
+   "lat": 35.1796,
+   "lng": 129.0756,
+   "kind": "source",
+   "x": 147,
+   "y": 21.65
+  },
+  {
+   "id": "singapore",
+   "name": "Singapore",
+   "country": "Singapore",
+   "code": "SIN",
+   "lat": 1.3521,
+   "lng": 103.8198,
+   "kind": "source",
+   "x": 139,
+   "y": 40.7
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "country": "India",
+   "code": "BOM",
+   "lat": 19.076,
+   "lng": 72.8777,
+   "kind": "source",
+   "x": 123,
+   "y": 30.31
+  },
+  {
+   "id": "istanbul",
+   "name": "Istanbul",
+   "country": "Türkiye",
+   "code": "IST",
+   "lat": 41.0082,
+   "lng": 28.9784,
+   "kind": "source",
+   "x": 101,
+   "y": 18.19
+  },
+  {
+   "id": "hamburg",
+   "name": "Hamburg",
+   "country": "Germany",
+   "code": "HAM",
+   "lat": 53.5511,
+   "lng": 9.9937,
+   "kind": "source",
+   "x": 92.5,
+   "y": 12.12
+  },
+  {
+   "id": "rotterdam",
+   "name": "Rotterdam",
+   "country": "Netherlands",
+   "code": "RTM",
+   "lat": 51.9244,
+   "lng": 4.4777,
+   "kind": "source",
+   "x": 90,
+   "y": 12.99
+  },
+  {
+   "id": "milan",
+   "name": "Genoa",
+   "country": "Italy",
+   "code": "GOA",
+   "lat": 44.4056,
+   "lng": 8.9463,
+   "kind": "source",
+   "x": 92,
+   "y": 16.45
+  },
+  {
+   "id": "houston",
+   "name": "Houston",
+   "country": "United States",
+   "code": "HOU",
+   "lat": 29.7604,
+   "lng": -95.3698,
+   "kind": "source",
+   "x": 43,
+   "y": 25.11
+  },
+  {
+   "id": "santos",
+   "name": "Santos",
+   "country": "Brazil",
+   "code": "SSZ",
+   "lat": -23.9608,
+   "lng": -46.3336,
+   "kind": "source",
+   "x": 66,
+   "y": 54.56
+  },
+  {
+   "id": "durban",
+   "name": "Durban",
+   "country": "South Africa",
+   "code": "DUR",
+   "lat": -29.8587,
+   "lng": 31.0218,
+   "kind": "source",
+   "x": 103,
+   "y": 58.02
+  }
+ ]
+}
